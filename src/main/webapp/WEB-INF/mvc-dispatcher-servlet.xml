@@ -20,7 +20,7 @@
         <property name="url"
                   value="jdbc:mysql://localhost:3306/deputatmanager"/>
         <property name="username" value="root"/>
-        <property name="password" value="trinidad10"/>
+        <property name="password" value="password"/>
     </bean>
 
     <!-- Hibernate 5 SessionFactory Bean definition -->
